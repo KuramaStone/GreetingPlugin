@@ -1,0 +1,8 @@
+name: GreetingTrial
+version: '1.0-SNAPSHOT'
+main: com.github.kuramastone.greetingTrial.GreetingPlugin
+api-version: '1.21'
+
+commands:
+  greet:
+    description: Greets the user.
